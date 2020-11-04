@@ -1,0 +1,3 @@
+/** Path: plugin atto_teamsmeeting .' **/
+.atto_form .meeting-app #meetingapp {display: block;height: 360px;width: 600px;background-color: #f3f2f1;}
+

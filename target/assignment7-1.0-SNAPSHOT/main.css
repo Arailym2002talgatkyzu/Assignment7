@@ -1,0 +1,71 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+    background-image: url('mainback.jpg');
+    height: 100%;
+}
+
+.flex-container{
+    flex-wrap: nowrap;
+    display: flex;
+    margin-left:10%;
+    margin-top:3%;
+
+}
+.flex-container div{
+    margin-top: 20px;
+    text-align: center;
+    display: block;
+}
+.flex-container>div{
+    margin:100px;
+
+}
+#stbtn{
+    background-color: green;
+    width: 200px;
+    padding: 10px;
+    color: white;
+}
+
+#gtbtn{
+    background-color: blue;
+    width: 200px;
+    padding: 10px;
+    color:  white;
+}
+
+.item-title{
+    text-align: center;
+    width: 200px;
+    color: blue;
+}
+
+.item-price{
+    text-align: center;
+    width: 200px;
+    color: red;
+}
+
+.item-button{
+    width: 100px;
+    background: rgb(37,209, 245);
+}
+
+.item-image{
+    height: 300px;
+    width:400px;
+}
+
+.stationaryItems{
+    display:none;
+}
+
+.gadgetItems{
+    display: none;
+}

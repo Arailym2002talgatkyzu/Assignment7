@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("https://www.ebrandpartner.com/wp-content/uploads/2020/01/kisspng-zeabros-india-pvt-ltd-zeacreations-website-web-e-commerce-software-company-gurgaon-zeacreations-9-5d19f3ccece905.8280979915619819009704.png");
+    font-family: sans-serif;
+}
+
+.form-wrap{
+    width: 320px;
+    background: #3e3d3d;
+    padding: 40px 20px;
+    box-sizing: border-box;
+    position: fixed;
+    left:50%;
+    top:50%;
+    transform:translate(-50%, -50%);
+    opacity: 87%;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 100%;
+    background: none;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    padding: 6px 15px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color:#fff;
+}
+
+#btn{
+    background-color: #bac675;
+    border:0;
+    cursor: pointer;
+    color:#3e3d3d;
+    opacity: 95%;
+}
+#btn:hover{
+    background: #a4b15c;
+    transition: .6s
+}

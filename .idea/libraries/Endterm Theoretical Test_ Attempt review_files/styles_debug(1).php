@@ -1,0 +1,6 @@
+/** Path: plugin qtype_calculatedmulti .' **/
+.que.calculatedmulti .answer .specificfeedback {display: inline;padding: 0 .7em;background: #fff3bf;}
+.que.calculatedmulti .answer .specificfeedback * {display: inline;background: #fff3bf;}
+.que.calculatedmulti .answer .specificfeedback script {display: none;}
+.que.calculatedmulti .answer div.r0, .que.calculatedmulti .answer div.r1 {padding: .3em;}
+
